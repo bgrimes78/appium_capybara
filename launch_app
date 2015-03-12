@@ -1,0 +1,4 @@
+Add the following lines to launch your app on iOS or Android
+
+capy_driver = Capybara.current_session.driver
+capy_driver.browser
